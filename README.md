@@ -14,7 +14,7 @@ Full Stack Developer (MERN) | UI/UX | Backend Engineer
 🧰 Tech Stack
 <div align="center">
 🚀 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 🛠 Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
 ⚙️ Tools & Platforms
@@ -38,7 +38,7 @@ Responsive HTML/CSS portfolio showcasing skills & projects.
 
 </div>
 🌐 Connect With Me
-<div align="center"> <a href="https://www.linkedin.com/in/shrijit-v"> <img src="https://skillicons.dev/icons?i=linkedin" height="45"/> </a> <a href="https://github.com/Shrijitvivek"> <img src="https://skillicons.dev/icons?i=github" height="45"/> </a> <a href="https://www.youtube.com/@Trueplex"> <img src="https://skillicons.dev/icons?i=youtube" height="45"/> </a> </div>
+<div align="center"> <a href="https://www.linkedin.com/in/shrijit-v/"> <img src="https://skillicons.dev/icons?i=linkedin" height="45"/> </a> <a href="https://github.com/Shrijitvivek"> <img src="https://skillicons.dev/icons?i=github" height="45"/> </a> <a href="https://www.youtube.com/@Trueplex"> <img src="https://skillicons.dev/icons?i=youtube" height="45"/> </a> </div>
 <div align="center">
 ✨ Quote to Live By
 “Code. Create. Innovate. Repeat.”
