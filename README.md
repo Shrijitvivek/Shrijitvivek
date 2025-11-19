@@ -17,11 +17,11 @@ Robotics Engineer | Full Stack Developer | 3D Printing Enthusiast
 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 Robotics & Embedded
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 Software & Tools
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,ps" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,canva" />
 ⚙️ GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shrijitvivek&theme=tokyonight&hide_border=true" /> </div>
 📌 Featured Projects
