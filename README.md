@@ -11,7 +11,7 @@ Currently mastering Advanced React, Node.js, MongoDB & Authentication systems.
 </div>
 <div align="center">🧰 <strong>Tech Stack</strong></div>
 <div align="center">🎨 Frontend</div>
-<div align="center"> <table> <tr> <td><img src="https://skillicons.dev/icons?i=html" width="55"/></td> <td><img src="https://skillicons.dev/icons?i=css" width="55"/></td> <td><img src="https://skillicons.dev/icons?i=js" width="55"/></td> <td><img src="https://skillicons.dev/icons?i=react" width="55"/></td> <td><img src="https://skillicons.dev/icons?i=tailwind" width="55"/></td> <td><img src="https://skillicons.dev/icons?i=bootstrap" width="55"/></td> </tr> </table> </div>
+<div align="center"> <table> <tr> <td><img src="https://skillicons.dev/icons?i=html" width="55"/></td> <td><img src="https://skillicons.dev/icons?i=css" width="55"/></td> <td><img src="https://skillicons.dev/icons?i=js" width="55"/></td> <td><img src="https://skillicons.dev/icons?i=react" width="55"/></td> <td><img src="https://skillicons.dev/icons?i=tailwind" width="55"/></td> </tr> </table> </div>
 <div align="center">⚙️ Backend</div>
 <div align="center"> <table> <tr> <td><img src="https://skillicons.dev/icons?i=nodejs" width="55"/></td> <td><img src="https://skillicons.dev/icons?i=express" width="55"/></td> <td><img src="https://skillicons.dev/icons?i=mongodb" width="55"/></td> <td><img src="https://skillicons.dev/icons?i=postman" width="55"/></td> </tr> </table> </div>
 <div align="center">🛠 Tools</div>
