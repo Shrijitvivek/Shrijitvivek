@@ -1,36 +1,33 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&color=00E5FF&duration=2200&pause=700&width=800&lines=Hey+I'm+Shrijit+V+🚀;Full+Stack+Developer;I+build+clean+UI+%2B+robust+backend+systems" />
-✨ About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&color=00FFD1&duration=2000&pause=900&width=900&lines=Shrijit+V+Here+💡;Full+Stack+Developer;Turning+ideas+into+fast+%26+functional+apps" />
+👨🏻‍💻 Who Am I?
 
-Full Stack Dev crafting fast UIs and scalable backends.
-Focused on writing clean, optimized, and modern code every day.
+A MERN developer obsessed with clean design, smooth UX, and efficient backend logic.
+Every commit is a small step toward mastering full-stack engineering.
 
-🔥 Current Focus
+🚀 What I'm Building Right Now
 
-Deep React patterns & UI architecture
+Advanced reusable React components
 
-Backend scaling with Express
+Better backend patterns with Express
 
-Authentication (JWT + Sessions)
+Secure, production-ready auth systems
 
-Clean UI with Tailwind
+Beautiful UI with Tailwind
 
-🧩 Tech Stack
+🧰 Tech Stack & Tools
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" /> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" /> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,canva" /> </p>
+🔥 GitHub Insights
+<p> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=radical&show_icons=true&hide_border=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=radical&hide_border=true"/> </p>
+📎 Featured Work
 
-Frontend: HTML, CSS, JS, React, Tailwind, Bootstrap
-Backend: Node.js, Express, MongoDB
-Tools: Git, GitHub, VSCode, Figma, Linux
+🔐 Session-based Auth System
 
-📊 GitHub Stats
-<p> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=radical&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=radical&hide_border=true"/> </p>
-🎯 Projects
+📝 MERN CRUD Dashboard
 
-MERN Auth System
+🌐 Animated Personal Portfolio
 
-MERN CRUD App
+🌍 Connect with Me
 
-Personal Portfolio
+LinkedIn • GitHub • YouTube
 
-🌐 Connect
-
-LinkedIn
- • GitHub
+⭐ Build. Break. Learn. Repeat.
