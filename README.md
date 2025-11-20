@@ -1,27 +1,12 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=00E0FF&duration=1800&pause=700&width=850&lines=Hello+World!+I'm+Shrijit+V;Full+Stack+Developer;Crafting+Better+Apps+Every+Day" />
-🧑‍💻 Developer Profile
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=console.log(%22Hello+I'm+Shrijit+V%22);Full+Stack+Developer;MERN+Stack+Engineer;UI+%2B+Backend+Craftsman" />
+🧑‍💻 About
 
-MERN stack developer
+Developer obsessed with design-focused UI and clean backend architecture.
+Building one project at a time with consistency and creativity.
 
-Addicted to improving UI + Backend logic
+🚀 Tech Arsenal
+<p> <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,tailwind,js,git,github,vscode" /> </p>
+📊 GitHub Status
+<p> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=radical&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=radical&hide_border=true"/> </p>
 
-Always learning something new
-
-🧠 Tech I'm Working With
-
-Frontend: React, Tailwind, JS
-Backend: Node, Express, MongoDB
-Tools: Git, GitHub, VSCode, Linux, Figma
-
-📌 Projects
-
-MERN Auth System
-
-CRUD App
-
-Portfolio Website
-
-📊 Stats
-<p> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=radical&hide_border=true&show_icons=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=radical&hide_border=true"/> </p>
-
-⭐ Pushing code. Pushing limits.
+⭐ Code. Debug. Repeat.
