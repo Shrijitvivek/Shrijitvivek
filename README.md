@@ -1,28 +1,13 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=900&center=true&color=00F3FF&width=900&lines=Shrijit+V+-+Full+Stack+Developer;Creating+Neon+Fast+User+Experiences;Powerful+Backend+Systems" /> </div>
-🟦 Who I Am
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&pause=900&color=00F5FF&center=true&width=900&lines=Hi%2C+I'm+Shrijit+V.;I+Design+%26+Develop+Web+Experiences;MERN+Stack+Developer" /> </div>
+🧩 About
 
-MERN Stack Developer
+A developer who loves clean UI, structured backend, and smooth interactions.
 
-UI/UX enthusiast
-
-Backend logic architect
-
-Always leveling up
-
-🟩 Tech Stack Panel
-<p> <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,mongodb,git,github,linux,vscode,figma" /> </p>
-🟧 Activity Radar
-<p> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=neon&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=neon&hide_border=true"/> </p>
-🟥 Focus Areas 2025
-
-Scalable backend systems
-
-Reusable & optimized React components
-
-Authentication & security
-
-UI/UX enhancement
-
-🟪 Quote
-
-“Build like an engineer. Think like a designer.”
+🧰 Tech Toolbox
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,git,github,linux,figma,vscode" /> </div>
+📦 Projects
+🔹 Auth System
+🔹 CRUD Dashboard
+🔹 Portfolio Site
+📊 Analytics
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=midnight-purple&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shrijitvivek&theme=midnight-purple&hide_border=true"/> </div>
