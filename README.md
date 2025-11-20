@@ -1,12 +1,17 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=console.log(%22Hello+I'm+Shrijit+V%22);Full+Stack+Developer;MERN+Stack+Engineer;UI+%2B+Backend+Craftsman" />
-🧑‍💻 About
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=00FFE5&center=true&vCenter=true&pause=1100&width=900&lines=Hey+I'm+Shrijit+V+👋;Full+Stack+Developer;React+Enthusiast;Node.js+%2B+Express+Backend+Builder;Always+Learning+Always+Improving" /> </p>
+🎯 Focus Areas
 
-Developer obsessed with design-focused UI and clean backend architecture.
-Building one project at a time with consistency and creativity.
+Frontend architecture with React
 
-🚀 Tech Arsenal
-<p> <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,tailwind,js,git,github,vscode" /> </p>
-📊 GitHub Status
-<p> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=radical&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=radical&hide_border=true"/> </p>
+Backend engineering with Node/Express
 
-⭐ Code. Debug. Repeat.
+Secure authentication systems
+
+UI/UX enhancements with Tailwind
+
+🛠 Tools & Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,mongodb,git,github,linux,figma" /> </p>
+📈 Stats
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=radical&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=radical&hide_border=true"/> </p>
+
+⭐ Every commit is progress.
