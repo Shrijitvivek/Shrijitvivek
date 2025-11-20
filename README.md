@@ -1,17 +1,27 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=00FFE5&center=true&vCenter=true&pause=1100&width=900&lines=Hey+I'm+Shrijit+V+👋;Full+Stack+Developer;React+Enthusiast;Node.js+%2B+Express+Backend+Builder;Always+Learning+Always+Improving" /> </p>
-🎯 Focus Areas
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&center=true&vCenter=true&color=00F6FF&width=900&pause=800&lines=Shrijit+V;Full+Stack+Developer;MERN+%7C+UI+Engineer+%7C+Problem+Solver" />
+🧭 Mission
 
-Frontend architecture with React
+Build fast, scalable apps with clean UI and strong backend logic.
 
-Backend engineering with Node/Express
+📡 Current Status
 
-Secure authentication systems
+Learning React deeply • Improving backend architecture • Daily consistency
 
-UI/UX enhancements with Tailwind
+📌 Skills Overview (Visual Grid)
+Frontend	Backend	Tools
+React ⚛️	Node.js 🟩	Git / GitHub 🔧
+Tailwind 💨	Express 🚀	VSCode 💻
+HTML / CSS	MongoDB 🍃	Linux 🐧
+📈 GitHub Overview
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=tokyonight&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=tokyonight&hide_border=true"/>
+🎯 Featured Builds
 
-🛠 Tools & Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,mongodb,git,github,linux,figma" /> </p>
-📈 Stats
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=radical&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=radical&hide_border=true"/> </p>
+MERN Auth System (Sessions/JWT)
 
-⭐ Every commit is progress.
+React + Express CRUD
+
+Modern Dev Portfolio
+
+✨ Building. Designing. Scaling.
+
+</div>
