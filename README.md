@@ -1,27 +1,28 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&center=true&vCenter=true&color=00F6FF&width=900&pause=800&lines=Shrijit+V;Full+Stack+Developer;MERN+%7C+UI+Engineer+%7C+Problem+Solver" />
-🧭 Mission
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=900&center=true&color=00F3FF&width=900&lines=Shrijit+V+-+Full+Stack+Developer;Creating+Neon+Fast+User+Experiences;Powerful+Backend+Systems" /> </div>
+🟦 Who I Am
 
-Build fast, scalable apps with clean UI and strong backend logic.
+MERN Stack Developer
 
-📡 Current Status
+UI/UX enthusiast
 
-Learning React deeply • Improving backend architecture • Daily consistency
+Backend logic architect
 
-📌 Skills Overview (Visual Grid)
-Frontend	Backend	Tools
-React ⚛️	Node.js 🟩	Git / GitHub 🔧
-Tailwind 💨	Express 🚀	VSCode 💻
-HTML / CSS	MongoDB 🍃	Linux 🐧
-📈 GitHub Overview
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=tokyonight&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=tokyonight&hide_border=true"/>
-🎯 Featured Builds
+Always leveling up
 
-MERN Auth System (Sessions/JWT)
+🟩 Tech Stack Panel
+<p> <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,mongodb,git,github,linux,vscode,figma" /> </p>
+🟧 Activity Radar
+<p> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=neon&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=neon&hide_border=true"/> </p>
+🟥 Focus Areas 2025
 
-React + Express CRUD
+Scalable backend systems
 
-Modern Dev Portfolio
+Reusable & optimized React components
 
-✨ Building. Designing. Scaling.
+Authentication & security
 
-</div>
+UI/UX enhancement
+
+🟪 Quote
+
+“Build like an engineer. Think like a designer.”
