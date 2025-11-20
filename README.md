@@ -1,15 +1,27 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=00F0FF&duration=2000&pause=700&width=800&lines=Shrijit+V+👋;Full+Stack+Developer;React+%7C+Node+%7C+MongoDB" />
-🔥 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=00E0FF&duration=1800&pause=700&width=850&lines=Hello+World!+I'm+Shrijit+V;Full+Stack+Developer;Crafting+Better+Apps+Every+Day" />
+🧑‍💻 Developer Profile
 
-Full Stack Developer passionate about creating clean UI, solid backend systems, and smooth user experiences.
+MERN stack developer
 
-💻 Tech Stack
+Addicted to improving UI + Backend logic
+
+Always learning something new
+
+🧠 Tech I'm Working With
 
 Frontend: React, Tailwind, JS
 Backend: Node, Express, MongoDB
-Tools: Git, GitHub, VSCode
+Tools: Git, GitHub, VSCode, Linux, Figma
 
-📊 GitHub Stats
-<p> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=radical&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=radical&hide_border=true"/> </p>
+📌 Projects
 
-⭐ Consistency builds mastery.
+MERN Auth System
+
+CRUD App
+
+Portfolio Website
+
+📊 Stats
+<p> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=radical&hide_border=true&show_icons=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=radical&hide_border=true"/> </p>
+
+⭐ Pushing code. Pushing limits.
