@@ -1,32 +1,30 @@
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&color=00F3FF&center=true&width=900&pause=900&lines=MISSION+BRIEFING%3A+SHRIJIT+V;FULL+STACK+ASTRONAUT;MERN+SPACE+PROGRAM" /> <img src="https://i.imgur.com/HNAInKZ.png" width="750"/> </div>
+🚀 Mission Overview
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=30&color=00E7FF&pause=900&width=900&lines=Research+Log+%3A+Shrijit+V;Full+Stack+Developer;MERN+Research+Scientist;Experimenting+With+Code+Daily..." />
-🔬 Research Summary
+Designation: Full Stack Astronaut
+Specialization: Interstellar UI Engineering + Warp-Speed Backend Systems
+Affiliation: MERN Space Agency (MSA)
 
-Principal Investigator: Shrijit V
-Field: Web Engineering & Applied MERN Science
-Objective: Develop high-performance systems by experimenting with UI, backend chemistry, and database stability.
+🛰 Systems Operated
 
-🧫 Active Experiments
+React Navigation Console
 
-React component reaction tests
+Node Fusion Core
 
-Express server stability under load
+Express Warp Engine
 
-MongoDB molecular structure optimization
+MongoDB Star-Archive
 
-Tailwind UI behavior in different environments
+🌌 Tech Constellation
+<p> <img src="https://skillicons.dev/icons?i=react,mongodb,nodejs,express,js,tailwind,git,github,linux" /> </p>
+🧭 Space Telemetry (GitHub Data)
+<p> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=tokyonight&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=tokyonight&hide_border=true"/> </p>
+🌠 Completed Missions
 
-🧪 Lab Equipment (Tech Stack)
-<p> <img src="https://skillicons.dev/icons?i=react,js,tailwind,nodejs,express,mongodb,git,linux,vscode" /> </p>
-📊 Research Output Metrics
-<p> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=transparent&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=transparent&hide_border=true"/> </p>
-🧠 Recent Discoveries
+MERN Authentication Satellite
 
-Faster state management patterns
+CRUD Observation Rover
 
-Cleaner backend route topology
+Full Portfolio Launch Sequence
 
-Improved UI reaction speeds
-
-🔍 Hypothesis:
-Consistent coding increases developer evolution.
+🌌 "To code is to explore the unknown."
