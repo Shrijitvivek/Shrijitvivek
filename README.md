@@ -1,27 +1,31 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Titillium+Web&size=34&color=5CFFAB&center=true&pause=900&width=900&lines=GENETIC+PROFILE+%E2%80%94+SHRIJIT+V;MERN+DEVELOPER+%E2%80%A2+DNA+ENGINEER;CODING+THE+FUTURE+CELL+BY+CELL" /> </div>
-🧬 Genome Overview
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=30&color=00E7FF&pause=900&width=900&lines=Research+Log+%3A+Shrijit+V;Full+Stack+Developer;MERN+Research+Scientist;Experimenting+With+Code+Daily..." />
+🔬 Research Summary
 
-Organism: Full Stack Developer
-Genome Type: MERN-Positive
-Mutation: High reactivity to UI + high tolerance to complex backend enzymes
+Principal Investigator: Shrijit V
+Field: Web Engineering & Applied MERN Science
+Objective: Develop high-performance systems by experimenting with UI, backend chemistry, and database stability.
 
-🧫 Phenotype Traits
+🧫 Active Experiments
 
-Hyper-adaptivity to frameworks
+React component reaction tests
 
-Rapid problem solving
+Express server stability under load
 
-High endurance for debugging
+MongoDB molecular structure optimization
 
-UI symmetry preference
+Tailwind UI behavior in different environments
 
-🔬 Biological Pathways (Skills)
-Pathway	Function
-React RNA	Translates UI code
-Node DNA	Stores backend logic
-Express Enzymes	Catalyze API reactions
-MongoDB Genome	Manages clustered data
-🧪 Lab Tests (Performance Data)
-<p> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=vue-dark&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=vue-dark&hide_border=true"/> </p>
+🧪 Lab Equipment (Tech Stack)
+<p> <img src="https://skillicons.dev/icons?i=react,js,tailwind,nodejs,express,mongodb,git,linux,vscode" /> </p>
+📊 Research Output Metrics
+<p> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=transparent&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=transparent&hide_border=true"/> </p>
+🧠 Recent Discoveries
 
-🧬 "Evolution happens one commit at a time."
+Faster state management patterns
+
+Cleaner backend route topology
+
+Improved UI reaction speeds
+
+🔍 Hypothesis:
+Consistent coding increases developer evolution.
