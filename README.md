@@ -1,31 +1,25 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=30&color=00E7FF&pause=900&width=900&lines=Research+Log+%3A+Shrijit+V;Full+Stack+Developer;MERN+Research+Scientist;Experimenting+With+Code+Daily..." />
-🔬 Research Summary
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Bangers&size=40&color=FFEE00&center=true&pause=900&width=900&lines=💥+SHRIJIT+V+💥;THE+FULL+STACK+SUPERHERO;REACT+BLASTS+%7C+NODE+POWERS+%7C+MONGO+FORCE" /> <img src="https://i.imgur.com/9sY4k3m.png" width="800"/> </div>
+🦸‍♂️ SUPERHERO ORIGIN STORY
 
-Principal Investigator: Shrijit V
-Field: Web Engineering & Applied MERN Science
-Objective: Develop high-performance systems by experimenting with UI, backend chemistry, and database stability.
+Once an ordinary coder…
+Until a radioactive React component bite turned him into a Full Stack Super Dev!
+Now he fights bugs, deploys apps, and saves projects across the MERN multiverse.
 
-🧫 Active Experiments
+⚡ SUPERPOWERS
 
-React component reaction tests
+💥 React Energy Blast
 
-Express server stability under load
+⚡ Node Thunder Strike
 
-MongoDB molecular structure optimization
+💨 Tailwind Speed Dash
 
-Tailwind UI behavior in different environments
+🔐 Mongo Shield Protection
 
-🧪 Lab Equipment (Tech Stack)
-<p> <img src="https://skillicons.dev/icons?i=react,js,tailwind,nodejs,express,mongodb,git,linux,vscode" /> </p>
-📊 Research Output Metrics
-<p> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=transparent&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=transparent&hide_border=true"/> </p>
-🧠 Recent Discoveries
+🧠 Debug Vision (X-ray mode)
 
-Faster state management patterns
+🛠 UTILITY BELT (Tech Gadgets)
+<p> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,git,github,linux,tailwind" /> </p>
+📊 POWER LEVEL
+<p> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=maroongold&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=maroongold&hide_border=true"/> </p>
 
-Cleaner backend route topology
-
-Improved UI reaction speeds
-
-🔍 Hypothesis:
-Consistent coding increases developer evolution.
+✨ “With great code… comes great responsibility.”
