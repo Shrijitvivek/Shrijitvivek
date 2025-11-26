@@ -1,24 +1,24 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&color=00FFEA&center=true&pause=900&width=900&lines=👾+SHRIJIT+V+👾;FULL+STACK+ARCADE+CHAMPION;MERN+LEVEL+9999" /> <img src="https://i.imgur.com/xVQ6rZn.png" width="700"/> </div>
-🕹 PLAYER STATS
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=36&color=00D1FF&center=true&pause=900&width=900&lines=🌀+Shrijit+V+🌀;Toon+Style+Full+Stack+Developer;Fun+Code+%7C+Fun+Design+%7C+Fun+Life" /> <img src="https://i.imgur.com/9wktsnw.png" width="650"/> </div>
+🌟 Toon Bio
 
-Name: Shrijit
-Level: 28
-Class: Full Stack Wizard
-XP: 56,000 (still grinding)
+I’m a fun-loving developer who sees the web as one big cartoon world.
+I design playful UI and smooth backend tricks.
 
-💥 SPECIAL MOVES
+🎨 Toon Tools
 
-👾 React Hyper Jump
+🎈 React Bubbles
 
-⚙️ Node Turbo Spin
+🎈 Node Clouds
 
-💽 Mongo Data Bomb
+🎈 Express Highways
 
-🧵 Tailwind Warp Thread
+🎈 Mongo Trees
 
-🎛 PLAYER LOADOUT (Tech Weapons)
-<p> <img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,tailwind,git,github,linux" /> </p>
-🧨 SCOREBOARD
-<p> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=gruvbox&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=gruvbox&hide_border=true"/> </p>
+🎈 Tailwind Breeze
 
-🕹 “Insert Commit → Achieve Victory.”
+🧩 Toon Tech Stack
+<p> <img src="https://skillicons.dev/icons?i=react,nodejs,js,express,mongodb,tailwind,git,github,linux" /> </p>
+📊 Toon Power Meter
+<p> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=buefy&show_icons=true&hide_border=true"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=buefy&hide_border=true"/> </p>
+
+🎉 “Life is a cartoon — add color to your code!”
