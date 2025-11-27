@@ -1,120 +1,57 @@
+<div align="center">
 
-[![Shrijit's GitHub Banner](./assets/GitHubHeader.png)](https://github.com/Shrijitvivek)
+# 👋 Hey, I'm **Shrijit V**
+### Full Stack Developer — MERN | UI Focused | Backend Driven
 
-[![Visits Badge](https://badges.pufler.dev/visits/Shrijitvivek/Shrijitvivek)](https://github.com/Shrijitvivek)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/shrijit-v)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Trueplex-informational?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://youtube.com/@Trueplex)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=vercel&logoColor=white&color=1A82FF)](https://yourportfolio.com)
+Creating clean UI, fast APIs, and modern digital experiences.
 
-Hey there 👋
+<br/>
 
-I’m **Shrijit**, a passionate **Full Stack Developer (MERN)** who loves crafting clean UI, scalable backend systems, and smooth user experiences. I’m constantly learning, improving, and building modern digital products using React, Node.js, and MongoDB.
+[LinkedIn](https://www.linkedin.com/in/shrijit-v) •
+[GitHub](https://github.com/Shrijitvivek) •
+[YouTube](https://youtube.com/@Trueplex)
 
-Want to know more about me?  
-👉 **Check out my portfolio (link yours!)**
+<br/>
+<img src="https://img.shields.io/badge/React-Expert-61DAFB?style=flat&logo=react&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Node.js-Developer-339933?style=flat&logo=node.js&logoColor=white"/>  
+<img src="https://img.shields.io/badge/MongoDB-Architect-47A248?style=flat&logo=mongodb&logoColor=white"/>  
 
----
-
-## 📝 Latest Blog Posts (Coming Soon)
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-- MERN Session-Based Authentication – Complete Guide
-- How I Built My Portfolio with HTML, CSS & Tailwind
-- Getting Started with MongoDB – Beginner Roadmap
-- React Folder Structure for Scalable Projects
-- Node.js Error Handling – Best Practices
-<!-- BLOG-POST-LIST:END -->
-
-<br>
+</div>
 
 ---
 
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/Shrijitvivek/MERN-Auth-System">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Shrijitvivek&repo=MERN-Auth-System&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/Shrijitvivek/MERN-CRUD-App">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Shrijitvivek&repo=MERN-CRUD-App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/Shrijitvivek/Portfolio-Website">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Shrijitvivek&repo=Portfolio-Website&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Shrijitvivek/React-UI-Components">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Shrijitvivek&repo=React-UI-Components&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
+## 🚀 About Me
+- I build modern, responsive web apps using MERN  
+- I love clean UI, scalable backend, and good developer experience  
+- Constantly learning — React architecture, Node patterns, Mongo indexing and more  
+- Passionate about animations, UX, and structured code  
 
 ---
 
-## 📈 GitHub Stats
-
-<br>
-
-<a href="https://github.com/Shrijitvivek">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrijitvivek&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Shrijitvivek">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
+## 🛠 Tech Stack  
+**Frontend:** React, Tailwind, JavaScript  
+**Backend:** Node.js, Express  
+**Database:** MongoDB  
+**Tools:** Git, Linux, VSCode, Postman, Figma  
 
 ---
 
-## 💼 Skills
-
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=4AB197)
-
-<details>
-<summary>More Skills</summary>
-<br>
-
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=4AB197)
-
-</details>
-
-<br>
+## 📌 Featured Projects
+- 🔐 **MERN Authentication System** — Sessions, JWT, RBAC  
+- 📦 **CRUD Dashboard** — Clean UI, scalable architecture  
+- 🌐 **Portfolio Website** — Fully responsive, animation-driven  
 
 ---
 
-## 📣 Quote of the Hour
+## 📊 GitHub Summary
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&show_icons=true&theme=tokyonight&hide_border=true"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=tokyonight&hide_border=true"/>  
 
-> Code is like humor. When you have to explain it, it’s bad.
->
-> <p>- Cory House</p>
+</div>
 
 ---
 
-> ### Want to know how I made this README?
->
-> Based on Braydon Coyer’s tutorial ✨  
-> Customize it however you like!
-
+## ✨ Philosophy
+**“Code. Improve. Repeat.”**
