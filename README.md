@@ -1,46 +1,45 @@
 <div align="center">
 
-# 🌌 **SHRIJIT V**
-### MERN STACK DEVELOPER • UI ARCHITECT • BACKEND ENGINEER
+# 🌿 **Hello, I'm Shrijit**
+### Full Stack Developer (MERN)  
+Calm UI • Smooth Backend • Clean Logic
 
-Creating fast, futuristic, neon-bright web apps 🔥
+<br/>
 
----
+[Portfolio](#) • [LinkedIn](https://www.linkedin.com/in/shrijit-v) • [GitHub](https://github.com/Shrijitvivek)
 
-### 🔗 Connect  
-[LinkedIn](https://www.linkedin.com/in/shrijit-v) •  
-[GitHub](https://github.com/Shrijitvivek)
+<br/>
 
 </div>
 
 ---
 
-## 💡 What I Do
-- Build scalable Node.js & Express backend systems  
-- Architect React components with clean folder structure  
-- Create high-performance UI using Tailwind  
-- Design secure auth systems with JWT + Sessions  
+## 🌱 About Me
+I enjoy building things that feel clean, smooth, and simple.  
+My development style focuses on clarity, structure, and user experience.
 
 ---
 
-## 🧩 Tech Stack (Neon Grid)
-| Frontend | Backend | Database | Tools |
-|----------|---------|----------|--------|
-| React ⚛️ | Node.js | MongoDB | Git |
-| Tailwind | Express | Mongoose | Linux |
-| JS | REST APIs | Aggregations | VSCode |
+## 🧰 Tools I Use
+- React + Tailwind  
+- Node.js + Express  
+- MongoDB  
+- Git, VSCode, Figma  
 
 ---
 
-## ⚡ GitHub Pulse
+## 🎯 My Strengths
+- Well-structured component architecture  
+- Fast backend route handling  
+- Clean UI design principles  
+- Persistent learning habit  
+
+---
+
+## 📊 My Stats
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=chartreuse-dark&show_icons=true&hide_border=true"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=chartreuse-dark&hide_border=true"/>  
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=graywhite&show_icons=true&hide_border=true"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=graywhite&hide_border=true"/>  
 
 </div>
-
----
-
-## 🔥 Motto  
-**“Futuristic design meets efficient engineering.”**
