@@ -1,45 +1,48 @@
 <div align="center">
 
-# 🌿 **Hello, I'm Shrijit**
-### Full Stack Developer (MERN)  
-Calm UI • Smooth Backend • Clean Logic
-
-<br/>
-
-[Portfolio](#) • [LinkedIn](https://www.linkedin.com/in/shrijit-v) • [GitHub](https://github.com/Shrijitvivek)
-
-<br/>
+# 🛠 **ENGINEERING SPECIFICATION: SHRIJIT V**
+### FULL STACK SYSTEM • MERN ARCHITECTURE • DIGITAL BUILDER
 
 </div>
 
 ---
 
-## 🌱 About Me
-I enjoy building things that feel clean, smooth, and simple.  
-My development style focuses on clarity, structure, and user experience.
+## ⚙ System Overview  
+**Model:** Full Stack Developer  
+**Version:** MERN v1.0  
+**Primary Modules:**  
+- React UI Engine  
+- Node.js Runtime Core  
+- Express Routing Layer  
+- MongoDB Storage System  
 
 ---
 
-## 🧰 Tools I Use
-- React + Tailwind  
-- Node.js + Express  
-- MongoDB  
-- Git, VSCode, Figma  
+## 🧩 Component Diagram  
+| Module | Status | Efficiency |
+|--------|--------|------------|
+| Frontend | Active | 95% |
+| Backend | Stable | 92% |
+| Database | Optimized | 89% |
+| DevOps | Improving | 80% |
 
 ---
 
-## 🎯 My Strengths
-- Well-structured component architecture  
-- Fast backend route handling  
-- Clean UI design principles  
-- Persistent learning habit  
+## 🔧 Installed Tools  
+`React` `Tailwind` `Node` `Express` `MongoDB`  
+`Git` `Linux` `VSCode` `Postman` `Figma`
 
 ---
 
-## 📊 My Stats
+## 🧪 Performance Tests  
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=graywhite&show_icons=true&hide_border=true"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=graywhite&hide_border=true"/>  
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&theme=blueprint&show_icons=true&hide_border=true"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=blueprint&hide_border=true"/>  
 
 </div>
+
+---
+
+## 📘 Documentation Summary  
+Clean code, scalable structure, smart debugging, optimized performance.
