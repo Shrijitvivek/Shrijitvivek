@@ -1,57 +1,85 @@
 <div align="center">
 
 # 👋 Hey, I'm **Shrijit V**
-### Full Stack Developer — MERN | UI Focused | Backend Driven
+### Full Stack Developer — MERN × NEXT.JS • UI Focused • Backend Driven
 
-Creating clean UI, fast APIs, and modern digital experiences.
+Crafting clean interfaces, smooth interactions, and scalable backend systems.
 
-<br/>
+---
 
-[LinkedIn](https://www.linkedin.com/in/shrijit-v) •
-[GitHub](https://github.com/Shrijitvivek) •
-[YouTube](https://youtube.com/@Trueplex)
+### 🌐 Connect With Me  
+[LinkedIn](https://www.linkedin.com/in/shrijit-v) •  
+[GitHub](https://github.com/Shrijitvivek) •  
 
-<br/>
-<img src="https://img.shields.io/badge/React-Expert-61DAFB?style=flat&logo=react&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Node.js-Developer-339933?style=flat&logo=node.js&logoColor=white"/>  
-<img src="https://img.shields.io/badge/MongoDB-Architect-47A248?style=flat&logo=mongodb&logoColor=white"/>  
+
+---
+
+## 🛠 Tech Stack (Icon Edition)
+
+<p align="center">
+  <!-- ROW 1 -->
+  <img src="https://skillicons.dev/icons?i=html" width="48" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="48" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="48" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" />
+</p>
+
+<p align="center">
+  <!-- ROW 2 -->
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
+  <img src="https://skillicons.dev/icons?i=express" width="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
+</p>
+
+<p align="center">
+  <!-- ROW 3 -->
+  <img src="https://skillicons.dev/icons?i=git" width="48" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" />
+  <img src="https://skillicons.dev/icons?i=figma" width="48" />
+  <img src="https://skillicons.dev/icons?i=linux" width="48" />
+</p>
+
+---
 
 </div>
 
----
 
 ## 🚀 About Me
-- I build modern, responsive web apps using MERN  
-- I love clean UI, scalable backend, and good developer experience  
-- Constantly learning — React architecture, Node patterns, Mongo indexing and more  
-- Passionate about animations, UX, and structured code  
+I’m a full stack developer passionate about building **modern digital experiences**.  
+I love clean UI, smart architecture, optimized performance, and writing code that simply *feels good*.
 
----
-
-## 🛠 Tech Stack  
-**Frontend:** React, Tailwind, JavaScript  
-**Backend:** Node.js, Express  
-**Database:** MongoDB  
-**Tools:** Git, Linux, VSCode, Postman, Figma  
+I focus on:
+- ⚛ React & component architecture  
+- 🧩 Next.js for scalable, production-grade apps  
+- 🚀 Node.js + Express backend engineering  
+- 🍃 MongoDB schema design & performance  
+- 🎨 Clean UI using Tailwind  
 
 ---
 
 ## 📌 Featured Projects
 - 🔐 **MERN Authentication System** — Sessions, JWT, RBAC  
-- 📦 **CRUD Dashboard** — Clean UI, scalable architecture  
-- 🌐 **Portfolio Website** — Fully responsive, animation-driven  
+- 🧭 **Next.js Portfolio** — Modern, animated & fully responsive  
+- 📦 **CRUD Dashboard** — Clean UI, reusable components  
+- 🎬 **React UI Components** — Custom UI kit  
 
 ---
 
 ## 📊 GitHub Summary
+
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&show_icons=true&theme=tokyonight&hide_border=true"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Shrijitvivek&theme=tokyonight&hide_border=true"/>  
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrijitvivek&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
 ---
 
 ## ✨ Philosophy
-**“Code. Improve. Repeat.”**
+> **"Code. Create. Improve. Repeat."**
+
