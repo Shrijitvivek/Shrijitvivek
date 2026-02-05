@@ -1,24 +1,21 @@
 <div align="center">
 
-                      
-#👋Hey, I'm Shrijit V
- ###Full Stack Developer — MERN × NEXT.JS • UI Focused • Backend Driven
+# 👋 Hey, I'm Shrijit V  
+### Senior Full‑Stack Engineer — Next.js × Node × MERN • UI‑First • Systems‑Aware  
 
-Crafting clean interfaces, smooth interactions, and scalable backend systems.
+Building production‑grade web apps with **clean architecture**, **performance‑first design**, and **scalable backends**.  
 
 ---
 
 ### 🌐 Connect With Me  
 [LinkedIn](https://www.linkedin.com/in/shrijit-v) •  
-[GitHub](https://github.com/Shrijitvivek) •  
-
+[GitHub](https://github.com/Shrijitvivek)  
 
 ---
 
-## 🛠 Tech Stack (Icon Edition)
+## 🛠 Tech Stack
 
 <p align="center">
-  <!-- ROW 1 -->
   <img src="https://skillicons.dev/icons?i=html" width="48" />
   <img src="https://skillicons.dev/icons?i=css" width="48" />
   <img src="https://skillicons.dev/icons?i=javascript" width="48" />
@@ -28,7 +25,6 @@ Crafting clean interfaces, smooth interactions, and scalable backend systems.
 </p>
 
 <p align="center">
-  <!-- ROW 2 -->
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
   <img src="https://skillicons.dev/icons?i=express" width="48" />
@@ -36,7 +32,6 @@ Crafting clean interfaces, smooth interactions, and scalable backend systems.
 </p>
 
 <p align="center">
-  <!-- ROW 3 -->
   <img src="https://skillicons.dev/icons?i=git" width="48" />
   <img src="https://skillicons.dev/icons?i=github" width="48" />
   <img src="https://skillicons.dev/icons?i=vscode" width="48" />
@@ -48,39 +43,45 @@ Crafting clean interfaces, smooth interactions, and scalable backend systems.
 
 </div>
 
-
 ## 🚀 About Me
-I’m a full stack developer passionate about building **modern digital experiences**.  
-I love clean UI, smart architecture, optimized performance, and writing code that simply *feels good*.
 
-I focus on:
-- ⚛ React & component architecture  
-- 🧩 Next.js for scalable, production-grade apps  
-- 🚀 Node.js + Express backend engineering  
-- 🍃 MongoDB schema design & performance  
-- 🎨 Clean UI using Tailwind  
+I’m a full‑stack engineer focused on **modern web architecture** and **developer‑experience‑driven codebases**.  
+I care about **performance**, **maintainability**, and **real‑world impact**, not just “it works”.
+
+I specialize in:
+- ⚛ **React & component architecture** (composition, hooks, patterns, DX)
+- 🧩 **Next.js** for SSR/SSG/ISR, API Routes, and edge‑ready apps
+- 🚀 **Node.js + Express** backend engineering (REST, tRPC‑style patterns, middleware)
+- 🍃 **MongoDB** schema design, indexing, and query optimization
+- 🎨 **Tailwind + Figma‑aligned UI** with responsive, accessible layouts
 
 ---
 
 ## 📌 Featured Projects
-- 🔐 **MERN Authentication System** — Sessions, JWT, RBAC  
-- 🧭 **Next.js Portfolio** — Modern, animated & fully responsive  
-- 📦 **CRUD Dashboard** — Clean UI, reusable components  
-- 🎬 **React UI Components** — Custom UI kit  
+
+- 🔐 **MERN Authentication System** — JWT, sessions, RBAC, secure password flow  
+- 🧭 **Next.js Portfolio** — SSR/ISR, animations, fully responsive, SEO‑optimized  
+- 📦 **CRUD Dashboard** — reusable components, state management, pagination, filters  
+- 🎬 **React UI Components** — custom component library with consistent theming
 
 ---
 
-## 📊 GitHub Summary
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shrijitvivek&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrijitvivek&theme=tokyonight&hide_border=true" height="165" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrijitvivek&show_icons=true&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shrijitvivek&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## ✨ Philosophy
+## ✨ Engineering Philosophy
+
 > **"Code. Create. Improve. Repeat."**
 
+- Build **simple, testable, and composable** modules.  
+- Optimize **user‑perceived performance** first, then micro‑optimizations.  
+- Write code that **other engineers can understand in 5 minutes**.  
+- Treat your README like **product documentation** — it’s your first PR to the world.
