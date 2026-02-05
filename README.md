@@ -1,8 +1,8 @@
 <div align="center">
 
                       
-👋Hey, I'm Shrijit V
- Full Stack Developer — MERN × NEXT.JS • UI Focused • Backend Driven
+#👋Hey, I'm Shrijit V
+ ###Full Stack Developer — MERN × NEXT.JS • UI Focused • Backend Driven
 
 Crafting clean interfaces, smooth interactions, and scalable backend systems.
 
