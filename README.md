@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👋 Hey, I'm Shrijit V  
-### Senior Full‑Stack Engineer — Next.js × Node × MERN • UI‑First • Systems‑Aware  
+### Full Stack Developer — MERN × Next.js • UI Focused • Backend Driven  
 
-Building production‑grade web apps with **clean architecture**, **performance‑first design**, and **scalable backends**.  
+Building modern web apps with clean architecture, strong performance, and maintainable code.
 
 ---
 
@@ -41,28 +41,25 @@ Building production‑grade web apps with **clean architecture**, **performance�
 
 ---
 
-</div>
-
 ## 🚀 About Me
 
-I’m a full‑stack engineer focused on **modern web architecture** and **developer‑experience‑driven codebases**.  
-I care about **performance**, **maintainability**, and **real‑world impact**, not just “it works”.
+I design and ship full‑stack applications with **clean UIs**, **well‑structured backends**, and **performance‑first thinking**.
 
-I specialize in:
-- ⚛ **React & component architecture** (composition, hooks, patterns, DX)
-- 🧩 **Next.js** for SSR/SSG/ISR, API Routes, and edge‑ready apps
-- 🚀 **Node.js + Express** backend engineering (REST, tRPC‑style patterns, middleware)
-- 🍃 **MongoDB** schema design, indexing, and query optimization
-- 🎨 **Tailwind + Figma‑aligned UI** with responsive, accessible layouts
+I focus on:
+- ⚛ React & reusable component patterns  
+- 🧩 Next.js for SSR/ISR and production‑ready apps  
+- 🚀 Node.js + Express backend engineering  
+- 🍃 MongoDB schema design and query optimization  
+- 🎨 Tailwind‑based UI that matches Figma designs  
 
 ---
 
 ## 📌 Featured Projects
 
-- 🔐 **MERN Authentication System** — JWT, sessions, RBAC, secure password flow  
-- 🧭 **Next.js Portfolio** — SSR/ISR, animations, fully responsive, SEO‑optimized  
-- 📦 **CRUD Dashboard** — reusable components, state management, pagination, filters  
-- 🎬 **React UI Components** — custom component library with consistent theming
+- 🔐 **MERN Authentication System** — JWT, sessions, RBAC  
+- 🧭 **Next.js Portfolio** — Modern, animated, fully responsive  
+- 📦 **CRUD Dashboard** — Clean UI, reusable components, filters  
+- 🎬 **React UI Components** — Custom component library  
 
 ---
 
@@ -77,11 +74,11 @@ I specialize in:
 
 ---
 
-## ✨ Engineering Philosophy
-
+## ✨ Engineering Mindset
 > **"Code. Create. Improve. Repeat."**
 
-- Build **simple, testable, and composable** modules.  
-- Optimize **user‑perceived performance** first, then micro‑optimizations.  
-- Write code that **other engineers can understand in 5 minutes**.  
-- Treat your README like **product documentation** — it’s your first PR to the world.
+- Write code that others can understand quickly.  
+- Optimize user‑perceived performance first.  
+- Keep READMEs as clear as your code.
+
+</div>
