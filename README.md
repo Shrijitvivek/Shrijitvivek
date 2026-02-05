@@ -63,7 +63,6 @@ I focus on:
 
 ---
 
-## 📊 GitHub Stats
 
 <div align="center">
 
