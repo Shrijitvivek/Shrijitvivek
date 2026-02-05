@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👋 Hey, I'm Shrijit V  
-### Full Stack Developer — MERN × Next.js  
+### Full Stack Developer — MERN × Next.js • UI Focused • Backend Driven  
 
-Building clean UIs and scalable backends for modern web apps.
+Building fast, maintainable web apps with clean architecture and strong performance.
 
 ---
 
@@ -22,10 +22,16 @@ Building clean UIs and scalable backends for modern web apps.
   <img src="https://skillicons.dev/icons?i=typescript" width="48" />
   <img src="https://skillicons.dev/icons?i=react" width="48" />
   <img src="https://skillicons.dev/icons?i=nextjs" width="48" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
   <img src="https://skillicons.dev/icons?i=express" width="48" />
   <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git" width="48" />
   <img src="https://skillicons.dev/icons?i=github" width="48" />
   <img src="https://skillicons.dev/icons?i=vscode" width="48" />
@@ -35,21 +41,28 @@ Building clean UIs and scalable backends for modern web apps.
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-- Build **React + Next.js** apps with clean UIs  
-- Design **Node.js + Express** backends  
-- Optimize **MongoDB** schemas and queries  
-- Use **Tailwind** to match Figma designs  
+I focus on:
+- ⚛ React & component‑driven UIs  
+- 🧩 Next.js for SSR/ISR and production‑ready apps  
+- 🚀 Node.js + Express backend engineering  
+- 🍃 MongoDB schema design and performance  
+- 🎨 Tailwind‑based UIs that match Figma  
+
+I care about:
+- Performance (LCP, bundle size, API latency)  
+- Clean, reusable architecture  
+- Code that other devs can understand quickly  
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
-- 🔐 MERN Authentication System — JWT, sessions, RBAC  
-- 🧭 Next.js Portfolio — Modern, animated, responsive  
-- 📦 CRUD Dashboard — Clean UI, reusable components  
-- 🎬 React UI Components — Custom component kit  
+- 🔐 **MERN Authentication System** — JWT, sessions, RBAC  
+- 🧭 **Next.js Portfolio** — Modern, animated, responsive  
+- 📦 **CRUD Dashboard** — Clean UI, reusable components  
+- 🎬 **React UI Components** — Custom component library  
 
 ---
 
