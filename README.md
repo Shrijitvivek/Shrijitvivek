@@ -64,12 +64,12 @@ I focus on:
 ---
 
 
-<div align="center">
+<!-- <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrijitvivek&show_icons=true&theme=tokyonight&hide_border=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shrijitvivek&theme=tokyonight&hide_border=true)
 
-</div>
+</div> -->
 
 ---
 
