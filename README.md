@@ -8,7 +8,6 @@
 
 
 
-
 # 👋 Hey, I'm Shrijit V  
 ### Full Stack Developer — MERN × Next.js • UI Focused • Backend Driven  
 
