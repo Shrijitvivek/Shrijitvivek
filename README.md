@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5CFF,50:00C9A7,100:00A6FB&height=220&section=header&text=Shrijit%20V&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20%7C%20Agentic%20AI%20%7C%20Full%20Stack&descSize=17&descAlignY=59&animation=fadeIn" width="100%" />
