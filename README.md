@@ -19,8 +19,6 @@ I explore how **LLMs, RAG, AI agents, and modern web technologies** can come tog
 
 </div>
 
----
-
 ## 🧭 &nbsp; What I'm Exploring
 
 <table>
@@ -66,7 +64,6 @@ I explore how **LLMs, RAG, AI agents, and modern web technologies** can come tog
 </tr>
 </table>
 
----
 
 ## 🎨 &nbsp; Tech Stack
 
@@ -104,7 +101,6 @@ I explore how **LLMs, RAG, AI agents, and modern web technologies** can come tog
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
 </p>
 
----
 
 ## 🚀 &nbsp; Featured Projects
 
@@ -167,8 +163,6 @@ An exploration of the RAG workflow, from document preparation to retrieval-groun
 </tr>
 </table>
 
----
-
 ## 📈 &nbsp; GitHub Overview
 
 <div align="center">
@@ -181,7 +175,6 @@ An exploration of the RAG workflow, from document preparation to retrieval-groun
 
 </div>
 
----
 
 ## 🌱 &nbsp; Learning in Public
 
@@ -199,4 +192,3 @@ I'm continuing to explore how AI components fit into complete applications:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A6FB,50:00C9A7,100:6A5CFF&height=100&section=footer" width="100%" />
 
 </div>
-```
